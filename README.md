@@ -49,6 +49,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
   <ul>
     <li><a href="#abap">ABAP</a></li>
     <li><a href="#ada">Ada</a></li>
+    <li><a href="#arm">ARM</a></li>
     <li><a href="#asm">Assembly</a></li>
     <li><a href="#awk">Awk</a></li>
     <li><a href="#c">C</a></li>
@@ -145,6 +146,11 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 - [Codepeer](http://www.adacore.com/codepeer) :copyright: - Detects run-time and logic errors.
 - [Polyspace for Ada](https://www.mathworks.com/products/polyspace-ada.html) :copyright: - Provide code verification that proves the absence of overflow, divide-by-zero, out-of-bounds array access, and certain other run-time errors in source code.
 - [SPARK](https://www.adacore.com/about-spark) :copyright: - Static analysis and formal verification toolset for Ada.
+
+
+<h2 id="arm">ARM</h2>
+
+- [AzSK](https://azsk.azurewebsites.net/) - A secure DevOps Kit for Azure, provides tooling to support automation infrastructure as code and a number of other quality and security objectives. 
 
 
 <h2 id="asm">Assembly</h2>
